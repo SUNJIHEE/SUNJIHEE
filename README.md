@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=SUNJIHEE&fontSize=90" />
 
-### 🖥️ Langyage 🖥️
+### 🖥️ Languages 🖥️
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
