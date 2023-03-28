@@ -4,8 +4,8 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 </div>
 
 ### Hi there 👋
