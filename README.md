@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=purple&height=200&section=header&text=SUNJIHEE&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=lightpurple&height=200&section=header&text=SUNJIHEE&fontSize=90" />
 
 ### Hi there 👋
 
