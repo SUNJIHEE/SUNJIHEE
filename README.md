@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=SUNJIHEE&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=SUNJIHEE&fontSize=75" />
 
 ### 🖥️ Languages 🖥️
 
