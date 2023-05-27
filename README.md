@@ -21,15 +21,16 @@
 	
 </div>
 <div align=center>
-	<a href="https://stone-paint-c02.notion.site/Data-Analyst-2bdcda1313734458b5a79b3fc4fa4ae5">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	<a href = "https://stone-paint-c02.notion.site/Data-Analyst-2bdcda1313734458b5a79b3fc4fa4ae5"> 
+		<img alt="Notion" src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 	</a>
 	<img alt="Discord" src ="https://img.shields.io/badge/선지희%231561-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 	
-	</a>
-	<a href="https://instagram.com/mean.___.happy?igshid=MmIzYWVlNDQ5Yg==">
-		<img src="https://img.shields.io/badge/Intsagram-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
+</a>
+	<a href = "https://instagram.com/mean.___.happy?igshid=MmIzYWVlNDQ5Yg=="> 
+		<img alt="Instagram" src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+	
+</a>
 	
 </div>
 <br>
