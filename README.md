@@ -4,7 +4,7 @@
 	
 </div>
 <div align=center>
-	###<h3>📚 Tech Stack 📚</h3> 
+	<h3>📚 Tech Stack 📚</h3> 
 	
 	
 </div>
@@ -16,7 +16,7 @@
 	
 </div>
 <div align=center>
-	### <h3>🎨 SNS & Portfolio 🎨</h3>
+	<h3>🎨 SNS & Portfolio 🎨</h3>
 	
 	
 </div>
