@@ -28,7 +28,7 @@
 	
 </a>
 	<a href = "https://instagram.com/mean.___.happy?igshid=MmIzYWVlNDQ5Yg=="> 
-		<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+		<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 	
 </a>
 	
