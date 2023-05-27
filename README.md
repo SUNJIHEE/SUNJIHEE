@@ -16,7 +16,7 @@
 	
 </div>
 <div align=center>
-	### <p>🎨 SNS & Portfolio 🎨</p>
+	### <h3>🎨 SNS & Portfolio 🎨</h3>
 	
 	
 </div>
