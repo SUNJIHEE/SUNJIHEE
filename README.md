@@ -27,7 +27,7 @@
 	
 </div>
 <div align=center>
-	<a href = "https://stone-paint-c02.notion.site/Data-Analyst-2bdcda1313734458b5a79b3fc4fa4ae5"> 
+	<a href = "https://flawless-radon-9b5.notion.site/Data-Scientist-c748abbb1c3f432cb69ca97f86a42ad6?pvs=4"> 
 		<img alt="Notion" src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 	</a>
 	<img alt="Discord" src ="https://img.shields.io/badge/선지희%231561-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
