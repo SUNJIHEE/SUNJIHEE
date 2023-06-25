@@ -34,7 +34,8 @@
 	<a href = "https://www.instagram.com/mean.___.happy/?igshid=MmIzYWVlNDQ5Yg%3D%3D"> 
 		<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 	</a>
- 	<img alt="Slack" src ="https://img.shields.io/badge/선지희%237289DO.svg?style=for-the-badge&logo=Slack&logoColor=white"/>
+<div align="center">
+ 	<img alt="Slack" src ="https://img.shields.io/badge/선지희%23728900.svg?style=for-the-badge&logo=Slack&logoColor=white"/>
 	</a>
  
 	
