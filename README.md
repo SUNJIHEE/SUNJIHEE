@@ -35,7 +35,7 @@
 		<img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 	</a>
 <div align="center">
- 	<img alt="Slack" src ="https://img.shields.io/badge/선지희-%4C0B5F.svg?style=for-the-badge&logo=Slack&logoColor=white"/>
+ 	<img alt="Slack" src ="https://img.shields.io/badge/선지희-%234A154B.svg?style=for-the-badge&logo=Slack&logoColor=white"/>
 	</a>
  
 	
