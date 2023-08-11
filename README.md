@@ -1,13 +1,5 @@
 <div align="center">
-   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
-      <linearGradient id="gradient" x1="100%" y1="100%">
-         <stop offset="0%" style="stop-color:#ff0055;stop-opacity:1" />
-         <stop offset="100%" style="stop-color:#ff5500;stop-opacity:1" />
-      </linearGradient>
-      <rect x="0" y="0" width="800" height="200" fill="url(#gradient)" />
-      <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="60px" font-family="Arial" dy=".3em">SUNJIHEE</text>
-      <text x="50%" y="70%" text-anchor="middle" fill="white" font-size="20px" font-family="Arial" font-style="italic" dy=".3em">Aspiring Data Scientist</text>
-   </svg>
+  <img src="https://your-image-hosting-service.com/path/to/your/image.png" />
 </div>
 
 
