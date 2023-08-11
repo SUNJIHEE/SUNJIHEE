@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://your-image-hosting-service.com/path/to/your/image.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SUNJIHEE&fontSize=75&desc=Aspiring%20Data%20Scientist&descAlignY=75&descAlign=62&descSize=15" />
 </div>
-
 
 <div align="center">
 <h1 style="font-family: 'Times New Roman', Times, serif; color: #4A154B; text-shadow: 2px 2px #E4405F;">Aspiring Data Scientist</h1>
