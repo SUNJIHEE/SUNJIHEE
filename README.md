@@ -43,9 +43,9 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 
 <div>
 
-<a href="https://solved.ac/sunjh99"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunjh99&theme=dark"/></a>
-
+<a href="https://solved.ac/sunjh99"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunjh99&theme=dark"/></a>
 </div>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUNJIHEE)](https://github.com/SUNJIHEE/github-readme-stats)
 
