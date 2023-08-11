@@ -47,6 +47,7 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUNJIHEE)](https://github.com/SUNJIHEE/github-readme-stats)
 
 <!--
 **SUNJIHEE/SUNJIHEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
