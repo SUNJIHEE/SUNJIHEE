@@ -45,8 +45,6 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunjh99)](https://solved.ac/sunjh99)
 
-<div align="right">
-<img src="http://mazandi.herokuapp.com/api?handle=sunjh99&theme=warm"/>
 </div>
 
 
