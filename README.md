@@ -6,8 +6,11 @@
 <h1 style="font-family: 'Times New Roman', Times, serif; color: #4A154B; text-shadow: 2px 2px #E4405F;">Aspiring Data Scientist</h1>
 </div>
 <div align="center">
-  <img src="https://path/to/your/image.png" alt="Harnessing the Power of Data to Shape Tomorrow's World" />
+
+_**Harnessing the Power of Data to Shape Tomorrow's World**_
+
 </div>
+
 
 <div align="center">
 <h3>📚 Tech Stack 📚</h3>
