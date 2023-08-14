@@ -13,7 +13,7 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 
 
 <div align="center">
-<h3>📚 Tech Stack 📚</h3>
+<h2>📚 Tech Stack 📚</h2>
 </div>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 <div>
@@ -29,7 +29,7 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 </div>
 
 <div align="center">
-<h3>🎨 SNS & Portfolio 🎨</h3>
+<h2>🎨 SNS & Portfolio 🎨</h2>
 </div>
 <div align="center">
 <a href="https://flawless-radon-9b5.notion.site/Data-Scientist-c748abbb1c3f432cb69ca97f86a42ad6?pvs=4">
