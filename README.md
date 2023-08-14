@@ -28,10 +28,14 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 </div>
 </div>
 
+
 <div align="center">
 <h2>🛠️ Tools 🛠️</h2>
-</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 <div>
+</div>
+
+
 <div align="center">
 <h2>📓 SNS & Portfolio 📓</h2>
 </div>
