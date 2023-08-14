@@ -34,6 +34,8 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 <div>
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/powerbi-F2C811?style=flat&logo=powerbi&logoColor=white" />
 </div>
 
 
