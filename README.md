@@ -56,6 +56,8 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 
 <a href="https://solved.ac/sunjh99"><img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunjh99&theme=dark"/></a>
 
+</div>
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUNJIHEE&show_icons=true&theme=tokyonight)
 
 </div>
