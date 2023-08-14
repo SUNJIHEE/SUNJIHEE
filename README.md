@@ -33,6 +33,7 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 <h2>🛠️ Tools 🛠️</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 <div>
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </div>
 
 
