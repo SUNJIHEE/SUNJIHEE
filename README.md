@@ -62,8 +62,6 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 </div>
 
 <div align="right">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUNJIHEE&show_icons=true&theme=tokyonight)
 
 </div>
 <!--
