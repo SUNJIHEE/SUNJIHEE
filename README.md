@@ -45,6 +45,10 @@ _**Harnessing the Power of Data to Shape Tomorrow's World**_
 <div align="center">
 <a href="https://flawless-radon-9b5.notion.site/Data-Scientist-c748abbb1c3f432cb69ca97f86a42ad6?pvs=4">
 <img alt="Notion" src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://meanhappy.tistory.com/">
+<img alt="Tistory" src ="https://img.shields.io/badge/Blog-%23FF7A61.svg?style=for-the-badge&logo=blog&logoColor=white"/></a>
+</div>
+<div align="center">
 <img alt="Discord" src ="https://img.shields.io/badge/선지희%231561-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 <a href="https://www.instagram.com/mean.___.happy/?igshid=MmIzYWVlNDQ5Yg%3D%3D">
 <img alt="Instagram" src ="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
